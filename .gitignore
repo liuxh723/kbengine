@@ -2,6 +2,7 @@
 /kbe/src/_objs
 /kbe/src/ipch
 __pycache__/
+SailingWorldServer/
 logs/
 *.suo
 *.user
